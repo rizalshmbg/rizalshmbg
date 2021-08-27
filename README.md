@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rizalshmbg/rizalshmbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi Peeps! 👋 
+
+Perkenalkan nama saya **Rizal Sihombing**.
+
+🌱 Saya seorang siswa **Frontend Web Developer & Machine Learning Engineer** di [Dicoding](https://www.dicoding.com/).
+
+⚡ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizal-sihombing-b069061b8/)-ku ya.
