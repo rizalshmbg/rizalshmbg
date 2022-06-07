@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Rizal Sihombing**.  
 
-🌱 Saya seorang siswa **Frontend Web Developer & Machine Learning Engineer** di [Dicoding](https://www.dicoding.com/).
+🌱 Saya seorang mahasiswa jurusan teknik informatika di [UNIKOM](https://www.unikom.ac.id).
 
 
 ⚡ Berbicara dalam bahasa :
