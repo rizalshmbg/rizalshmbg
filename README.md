@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalshmbg&repo=rizalshmbg)](https://github.com/rizalshmbg/rizalshmbg)
 -->
 
-# Hi Peeps! 👋 
+# Hello Coders! 👋 
 
 Perkenalkan nama saya **Rizal Sihombing**.  
 
