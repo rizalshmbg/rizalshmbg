@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalshmbg&repo=rizalshmbg)](https://github.com/rizalshmbg/rizalshmbg)
 -->
 
-<a href="https://app.daily.dev/rizalshmbg"><img src="https://api.daily.dev/devcards/e9866a84c796403181a5c8ebd76ae3af.png?r=jfv" width="200" alt="Rizal Sihombing's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/rizalshmbg"><img src="https://api.daily.dev/devcards/e9866a84c796403181a5c8ebd76ae3af.png?r=jfv" width="200" alt="Rizal Sihombing's Dev Card"/></a> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalshmbg&repo=rizalshmbg)](https://github.com/rizalshmbg/rizalshmbg)
+![Blue White and Black Stars Birthday Zoom Virtual Background (1)](https://user-images.githubusercontent.com/66808677/174433208-5cbd687e-2b34-449f-a9e3-8e072bab7263.gif)
+
+
 
 # Hello Coders! 👋 
 
