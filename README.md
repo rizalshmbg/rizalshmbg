@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/rizalshmbg"><img src="https://api.daily.dev/devcards/e9866a84c796403181a5c8ebd76ae3af.png?r=jfv" width="400" alt="Rizal Sihombing's Dev Card"/></a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizalshmbg&repo=rizalshmbg)](https://github.com/rizalshmbg/rizalshmbg)
+
 # Hello Coders! 👋 
 
 Perkenalkan nama saya **Rizal Sihombing**.  
