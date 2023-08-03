@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">👯 I’m looking to collaborate on <strong>open source projects related to React and JavaScript.</strong></p>
 
-<p align="center">💬 Ask me about <strong>MERN</strong></p>
+<p align="center">💬 Ask me about <strong>REACT</strong></p>
 
 <p align="center">📫 How to reach me <a href="mailto:sihombingrizal18@gmail.com"><strong>sihombingrizal18@gmail.com</strong></a></p>
 
