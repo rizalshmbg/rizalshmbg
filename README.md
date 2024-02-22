@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Rizal Sihombing 👋</h1>
 <h3 align="center">Junior Frontend Web Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rizalshmbg&label=Profile%20views&color=0e75b6&style=flat" alt="rizalshmbg" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rizalshmbg&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rizalshmbg" /> </p>
 
 <p align="center">🌱 I’m currently learning <strong>Javascript & React</strong></p>
 
