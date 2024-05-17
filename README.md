@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ![Blue White and Black Stars Birthday Zoom Virtual Background (1)](https://user-images.githubusercontent.com/66808677/174433208-5cbd687e-2b34-449f-a9e3-8e072bab7263.gif) -->
 
-<p align="center"><a href="https://app.daily.dev/rizalshmbg"><img src="./devcard.png" width="356" alt="Rizal's Dev Card"/></a></p>
+<!-- <p align="center"><a href="https://app.daily.dev/rizalshmbg"><img src="./devcard.png" width="356" alt="Rizal's Dev Card"/></a></p> -->
 
 <h1 align="center">I'm Rizal Sihombing 👋</h1>
 <h3 align="center">Junior Frontend Web Developer</h3>
