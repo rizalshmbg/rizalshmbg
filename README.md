@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://app.daily.dev/rizalshmbg"><img src="https://api.daily.dev/devcards/e9866a84c796403181a5c8ebd76ae3af.png?r=jfv" width="200" alt="Rizal Sihombing's Dev Card"/></a> -->
 
-![Blue White and Black Stars Birthday Zoom Virtual Background (1)](https://user-images.githubusercontent.com/66808677/174433208-5cbd687e-2b34-449f-a9e3-8e072bab7263.gif)
+<!-- ![Blue White and Black Stars Birthday Zoom Virtual Background (1)](https://user-images.githubusercontent.com/66808677/174433208-5cbd687e-2b34-449f-a9e3-8e072bab7263.gif) -->
 
 <!-- <p align="center"><a href="https://app.daily.dev/rizalshmbg"><img src="./devcard.png" width="356" alt="Rizal's Dev Card"/></a></p> -->
 
