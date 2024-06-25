@@ -59,4 +59,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![snake svg](https://github.com/rizalshmbg/rizalshmbg/blob/output/github-contribution-grid-snake.svg)
