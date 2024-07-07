@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.47 %
-Java              4 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   32.06 %
-Blade Template    34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-PHP               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Java Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+TypeScript        7 hrs 11 mins   ████████████▒░░░░░░░░░░░░   48.73 %
+Java              4 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
+Blade Template    34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+PHP               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Java Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
