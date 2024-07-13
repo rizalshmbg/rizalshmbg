@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP               12 hrs 35 mins  ███████████████░░░░░░░░░░   59.63 %
-Blade Template    4 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-Java              2 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Bash              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Groovy            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+PHP               12 hrs 45 mins  █████████████████░░░░░░░░   67.64 %
+Blade Template    4 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Java              32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Groovy            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Bash              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
