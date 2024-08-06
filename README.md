@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       12 hrs 23 mins  █████████████████▒░░░░░░░   69.75 %
-JavaScript   3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
-JSON         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-SCSS         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Svelte       10 hrs 7 mins   ██████████████░░░░░░░░░░░   55.57 %
+JavaScript   5 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.10 %
+SCSS         2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
