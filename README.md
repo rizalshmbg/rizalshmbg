@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        40 hrs 28 mins  ███████████████████████▓░   95.00 %
-SCSS          1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-SSH Config    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JSON          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-HTML          14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Vue.js        39 hrs 55 mins  ████████████████████████░   95.67 %
+SCSS          1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+SSH Config    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JSON          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Markdown      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
