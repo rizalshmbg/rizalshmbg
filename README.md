@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   20 hrs 31 mins  ██████████████████████▓░░   90.36 %
-SSH Config   1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   20 hrs 12 mins  ███████████████████████░░   91.57 %
+SSH Config   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
