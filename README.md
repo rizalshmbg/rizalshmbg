@@ -62,10 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 hrs 26 mins  ████████████████████████▓   98.53 %
-CSV          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+JavaScript   20 hrs 4 mins   ████████████████████████▒   97.46 %
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+CSV          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
