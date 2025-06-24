@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rizalshmbg&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rizalshmbg" /> </p>
 
-<p align="center">🌱 I’m currently learning <strong>Java Spring Boot</strong></p>
+<p align="center">🌱 I’m currently learning <strong>Svelte</strong></p>
 
-<p align="center">👯 I’m looking to collaborate on <strong>open-source projects related to React, Express, and JavaScript.</strong></p>
+<p align="center">👯 I’m looking to collaborate on <strong>open-source projects related to React, and JavaScript.</strong></p>
 
 <p align="center">💬 Ask me about <strong>Web Dev</strong></p>
 
