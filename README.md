@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- <p align="center"><a href="https://app.daily.dev/rizalshmbg"><img src="./devcard.png" width="356" alt="Rizal's Dev Card"/></a></p> -->
 
 <h1 align="center">I'm Rizal Sihombing 👋</h1>
-<h3 align="center">Junior Full Stack Web Developer</h3>
+<h3 align="center">Junior Frontend Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rizalshmbg&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rizalshmbg" /> </p>
 
