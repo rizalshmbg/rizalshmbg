@@ -62,9 +62,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     14 mins               ████████████████████████▒   97.29 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JSON         50 mins               ███████████████████▒░░░░░   76.78 %
+Markdown     14 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
