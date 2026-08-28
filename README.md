@@ -62,8 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   50 mins               █████████████████████████   99.66 %
-YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JSON         2 hrs 44 mins         ██████████████████▒░░░░░░   73.70 %
+JavaScript   42 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+HTTP         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
