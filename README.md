@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   8 hrs 34 mins         █████████████████░░░░░░░░   67.76 %
-SQL          1 hr 15 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-JSON         1 hr 9 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Prisma       1 hr 7 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Bash         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JavaScript   9 hrs 31 mins         █████████████████▒░░░░░░░   69.23 %
+JSON         1 hr 18 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+SQL          1 hr 15 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Prisma       1 hr 7 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Bash         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
